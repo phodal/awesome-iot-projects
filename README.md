@@ -16,16 +16,19 @@ A curated list of IoT Projects. Everyone can contribute here!
 ## Basic Showcase
 
  - [IoT Weather Station With Adafruit HUZZAH ESP8266](http://www.instructables.com/id/IoT-Weather-Station-With-ESP8266/)
-     - Keyword: ESP8266, DHT11, TMP102, BMP180
-     - Devices: ESP8266
+     - Keyword: ESP8266, DHT11, TMP102, BMP180
+     - Devices: ESP8266 
  - [IoT Analytics Platform](https://blog.codecentric.de/en/2016/07/iot-analytics-platform/)
-     - Keyword: Analytics, IoT, Spark, Akka, Cassandra, Kafka
+     - Keyword: Analytics, IoT, Spark, Akka, Cassandra, Kafka    
  - [Triggering IFTTT From Arduino Using Lithouse](http://www.instructables.com/id/Triggering-IFTTT-from-Arduino-using-Lithouse/)
      - Keyword: IFTTT, Arduino, Lithouse, WeMo
-     - Devcies: Arduino, WeMo switch
+     - Devcies: Arduino, WeMo switch    
  - [Using Docker on a Raspberry Pi as an IoT hub](http://sample.org.uk/blog/post/rpi_docker_iot) 
      - Keyword: Docker, Node-RED, InfluxDB, MQTT, Mosquitto
      - Devices: Raspberry Pi,
+ - [Serverless IoT with Particle and Amazon Web Services](https://mike.lapidak.is/thoughts/serverless-iot-with-particle-and-aws)
+     - Keyword: AWS, Serverless, Particle Photon, Lambda, DynamoDB
+     - Devices: Particle Photon
 
 ## Cloud Services
 
@@ -38,12 +41,15 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [Internet of Things on the Xbox (App Dev on Xbox series)](https://blogs.windows.com/buildingapps/2016/10/13/internet-of-things-on-the-xbox-app-dev-on-xbox-series/)
      - Keyword: XBox, UWP, Windows IoT Core
      - Devices: XBox
+ - [Telegram Bot Library](https://create.arduino.cc/projecthub/Arduino_Genuino/telegram-bot-library-ced4d4) 
+     - Keyword: Telegram, bot, Arduino
+     - Devices: Arduino MKR1000
 
 ## Smart Home
 
  - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
      - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
-     - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink
+     - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink     
  - [NubChat - chat app for devices (and humans) with PubNub](https://www.hackster.io/Momy93/nubchat-chat-app-for-devices-and-humans-with-pubnub-bad66c) 
      - Keyword: PubNub, Chat App, Arduino
      - Devices: MediaTek Labs LinkIt ONE, Android device
@@ -52,16 +58,22 @@ A curated list of IoT Projects. Everyone can contribute here!
 
  - [Alexa Controlled Photon Project Without Alexa Coding](https://www.hackster.io/patriot-iot/alexa-controlled-photon-project-without-alexa-coding-f47d84) 
      - Keyword: Photon, Amazon Skill, Amazon Echo
-     - Devices: Amazon Echo, Photon
+     - Devices: Amazon Echo, Photon     
  - [How To: DIY Home Automation With NodeMCU and Amazon Alexa](http://www.instructables.com/id/How-To-DIY-Home-Automation-With-NodeMCU-and-Amazon/)     
      - Keyword: Amazon Echo, Amazon Alexa, NodeMCU, ESP8266
-     - Devices: Amazon Echo, NodeMCU
+     - Devices: Amazon Echo, NodeMCU     
  - [Nick's House - Echo Pi Weather](https://www.hackster.io/xelfer/nick-s-house-echo-pi-weather-b08dde)
      - Keyword: AWS IoT, DHT22, sensors, Alexa Skills Kit, AWS Lambda
      - Devices: Amazon Echo, Raspberry Pi 3
  - [Voice-Controlled Robot - Google Cloud Services](https://www.hackster.io/lukaszbudnik/voice-controlled-robot-google-cloud-services-94d9a8?ref=search&ref_id=voice%20controlled&offset=0)
      - Keyword: Google Firebase, Google Cloud Platform, Google Cloud Speech API, Google App Engine,
      - Devices: Arduino UNO, Android Devices, SparkFun RedBot Kit
+ - [Hi Remote, meet Cortana and Windows 10 IoT](https://www.hackster.io/team-passionate-contributers/hi-remote-meet-cortana-ec8774)
+     - Keyword: Cortana, Microsoft Azure, Windows 10 IoT Core
+     - Devices: Raspberry Pi 2 Model B
+ - [Adding Cortana and Bluetooth to a UWP app for Phillips Hue](https://blogs.windows.com/buildingapps/2016/04/20/adding-cortana-and-bluetooth-to-a-uwp-app-for-phillips-hue/)
+     - Keyword: Cortana, BLE, UWP, Hue
+     - Devices: Phillips Hue, Windows Phone
 
 ## Machine Learning
 
