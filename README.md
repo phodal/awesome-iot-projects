@@ -11,6 +11,7 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [Hack]
  - [Smart Home]
  - [Voice]
+ - [Machine Learning]
 
 ## Basic Showcase
 
@@ -38,9 +39,18 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [How To: DIY Home Automation With NodeMCU and Amazon Alexa](http://www.instructables.com/id/How-To-DIY-Home-Automation-With-NodeMCU-and-Amazon/)     
      - Keyword: Amazon Echo, Amazon Alexa, NodeMCU, ESP8266
      - Devices: Amazon Echo, NodeMCU
+ - [Nick's House - Echo Pi Weather](https://www.hackster.io/xelfer/nick-s-house-echo-pi-weather-b08dde)
+     - Keyword: AWS IoT, DHT22, sensors, Alexa Skills Kit, AWS Lambda
+     - Devices: Amazon Echo, Raspberry Pi 3
  - [Voice-Controlled Robot - Google Cloud Services](https://www.hackster.io/lukaszbudnik/voice-controlled-robot-google-cloud-services-94d9a8?ref=search&ref_id=voice%20controlled&offset=0)
      - Keyword: Google Firebase, Google Cloud Platform, Google Cloud Speech API, Google App Engine,
      - Devices: Arduino UNO, Android Devices, SparkFun RedBot Kit
+
+## Machine Learning
+
+ - [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
+      - Keyword: Tensorflow, Robot, Raspberry Pi
+      - Devices: Raspberry Pi
 
 # Contributing
 
