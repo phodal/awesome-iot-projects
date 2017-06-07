@@ -15,6 +15,9 @@ A curated list of IoT Projects. Everyone can contribute here!
 
 ## Basic Showcase
 
+ - [Running HomeBridge on a Raspberry Pi](https://github.com/nfarina/homebridge/wiki/Running-HomeBridge-on-a-Raspberry-Pi)
+     - Keyword: Homebridge, Raspberry Pi, Node.js, Avahi
+     - Devices: Raspberry Pi
  - [IoT Weather Station With Adafruit HUZZAH ESP8266](http://www.instructables.com/id/IoT-Weather-Station-With-ESP8266/)
      - Keyword: ESP8266, DHT11, TMP102, BMP180
      - Devices: ESP8266 
@@ -86,6 +89,9 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [Adding Cortana and Bluetooth to a UWP app for Phillips Hue](https://blogs.windows.com/buildingapps/2016/04/20/adding-cortana-and-bluetooth-to-a-uwp-app-for-phillips-hue/)
      - Keyword: Cortana, BLE, UWP, Hue
      - Devices: Phillips Hue, Windows Phone
+ - [Boost Your Google Home With Prota OS for RPi](http://www.instructables.com/id/Boost-Your-Google-Home-With-Prota-OS-for-Raspberry/)
+     - Keyword: IFTTT, Google Assistant, 
+     - Devices: Google Home, Raspberry Pi, WebCam
 
 ## Machine Learning
 
