@@ -22,7 +22,7 @@ A curated list of IoT Projects. Everyone can contribute here!
 
 ## Smart Home
 
- - Project: [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
+ - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
      - Keyword: ``HomeAssistant``, ``Amazon Echo``, ``IFTTT``, ``Wemo``
      - Devices: ``Amazon Echo``, ``Yeelight``, ``ESP8266``, ``BroadLink``
 
