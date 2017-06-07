@@ -14,7 +14,11 @@ A curated list of IoT Projects. Everyone can contribute here!
 
 ## Basic Showcase
 
- - [IoT Weather Station With Adafruit HUZZAH ESP8266](http://www.instructables.com/id/IoT-Weather-Station-With-ESP8266/) Keywords: ESP8266, DHT11, TMP102, BMP180.
+ - [IoT Weather Station With Adafruit HUZZAH ESP8266](http://www.instructables.com/id/IoT-Weather-Station-With-ESP8266/)
+     - Keyword: ESP8266, DHT11, TMP102, BMP180.
+     - Devices: ESP8266
+ - [IoT Analytics Platform](https://blog.codecentric.de/en/2016/07/iot-analytics-platform/)
+     - Keyword: Analytics, IoT, Spark, Akka, Cassandra, Kafka
 
 ## Cloud Services
 
@@ -23,10 +27,20 @@ A curated list of IoT Projects. Everyone can contribute here!
 ## Smart Home
 
  - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
-     - Keyword: ``HomeAssistant``, ``Amazon Echo``, ``IFTTT``, ``Wemo``
-     - Devices: ``Amazon Echo``, ``Yeelight``, ``ESP8266``, ``BroadLink``
+     - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
+     - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink
 
 ## Voice
+
+ - [Alexa Controlled Photon Project Without Alexa Coding](https://www.hackster.io/patriot-iot/alexa-controlled-photon-project-without-alexa-coding-f47d84) 
+     - Keyword: Photon, Amazon Skill, Amazon Echo
+     - Devices: Amazon Echo, Photon
+ - [How To: DIY Home Automation With NodeMCU and Amazon Alexa](http://www.instructables.com/id/How-To-DIY-Home-Automation-With-NodeMCU-and-Amazon/)     
+     - Keyword: Amazon Echo, Amazon Alexa, NodeMCU, ESP8266
+     - Devices: Amazon Echo, NodeMCU
+ - [Voice-Controlled Robot - Google Cloud Services](https://www.hackster.io/lukaszbudnik/voice-controlled-robot-google-cloud-services-94d9a8?ref=search&ref_id=voice%20controlled&offset=0)
+     - Keyword: Google Firebase, Google Cloud Platform, Google Cloud Speech API, Google App Engine,
+     - Devices: Arduino UNO, Android Devices, SparkFun RedBot Kit
 
 # Contributing
 
