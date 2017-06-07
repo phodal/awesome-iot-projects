@@ -16,20 +16,37 @@ A curated list of IoT Projects. Everyone can contribute here!
 ## Basic Showcase
 
  - [IoT Weather Station With Adafruit HUZZAH ESP8266](http://www.instructables.com/id/IoT-Weather-Station-With-ESP8266/)
-     - Keyword: ESP8266, DHT11, TMP102, BMP180.
+     - Keyword: ESP8266, DHT11, TMP102, BMP180
      - Devices: ESP8266
  - [IoT Analytics Platform](https://blog.codecentric.de/en/2016/07/iot-analytics-platform/)
      - Keyword: Analytics, IoT, Spark, Akka, Cassandra, Kafka
+ - [Triggering IFTTT From Arduino Using Lithouse](http://www.instructables.com/id/Triggering-IFTTT-from-Arduino-using-Lithouse/)
+     - Keyword: IFTTT, Arduino, Lithouse, WeMo
+     - Devcies: Arduino, WeMo switch
+ - [Using Docker on a Raspberry Pi as an IoT hub](http://sample.org.uk/blog/post/rpi_docker_iot) 
+     - Keyword: Docker, Node-RED, InfluxDB, MQTT, Mosquitto
+     - Devices: Raspberry Pi,
 
 ## Cloud Services
 
+ - [Control a Star Wars BB-8 Droid With Arm Gestures and IBM Bluemix Internet of Things](https://code.tutsplus.com/tutorials/control-a-star-wars-bb-8-droid-with-arm-gestures-and-ibm-bluemix-internet-of-things--cms-27255)
+     - Keyword: robot, gestures, Bluemix
+     - Devices: Myo Gesture Control Armband, Raspberry Pi, Sphero Star Wars BB-8 Droid
+
 ## Hack
+ 
+ - [Internet of Things on the Xbox (App Dev on Xbox series)](https://blogs.windows.com/buildingapps/2016/10/13/internet-of-things-on-the-xbox-app-dev-on-xbox-series/)
+     - Keyword: XBox, UWP, Windows IoT Core
+     - Devices: XBox
 
 ## Smart Home
 
  - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
      - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
      - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink
+ - [NubChat - chat app for devices (and humans) with PubNub](https://www.hackster.io/Momy93/nubchat-chat-app-for-devices-and-humans-with-pubnub-bad66c) 
+     - Keyword: PubNub, Chat App, Arduino
+     - Devices: MediaTek Labs LinkIt ONE, Android device
 
 ## Voice
 
