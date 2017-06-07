@@ -48,14 +48,23 @@ A curated list of IoT Projects. Everyone can contribute here!
 ## Smart Home
 
  - [Home automation with Z-Wave, Home-Assistant, Aeon Multisensor, HUE lights, and a Raspberry Pi 2](https://partofthething.com/thoughts/?p=937)
-    - Keyword: Home-Assistant, Aeon Multisensor, Phillips HUE
-    - Devices: Raspberry Pi, Hue, DD-WRT, Z-wave
+     - Keyword: Home-Assistant, Aeon Multisensor, Phillips HUE
+     - Devices: Raspberry Pi, Hue, DD-WRT, Z-wave
+ - [Home automation with Raspberry Pi + Homebridge](https://medium.com/@rxseger/home-automation-with-raspberry-pi-homebridge-f5ad9c4942c5)
+     - Keyword: Homebridge, JavaScript, Node.js
+     - Devices: Raspberry Pi,
+ - [Pi + Homekit + Kodi = Home Centre](https://sspai.com/post/38849)
+     - Keyword: Homebridge, Kodi, Homekit
+     - Devices: Raspberry Pi
+ - [从米家到 HomeKit，你只需要一个树莓派](https://sspai.com/post/38358)
+     - Keyword: Xiaomi, Homekit, HomeBridge, Aqara
+     - Devices: Raspberry Pi
  - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
-     - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
-     - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink     
+      - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
+      - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink     
  - [NubChat - chat app for devices (and humans) with PubNub](https://www.hackster.io/Momy93/nubchat-chat-app-for-devices-and-humans-with-pubnub-bad66c) 
-     - Keyword: PubNub, Chat App, Arduino
-     - Devices: MediaTek Labs LinkIt ONE, Android device
+      - Keyword: PubNub, Chat App, Arduino
+      - Devices: MediaTek Labs LinkIt ONE, Android device
 
 ## Voice
 
