@@ -65,6 +65,9 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
       - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
       - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink     
+ - [借助树莓派与 HomeBridge ，将 YeeLight 彩光灯接入 Apple HomeKit](https://sspai.com/post/36617) 
+      - Keyword: HomeBridge, YeeLight, HomeKit, Apple, iOS
+      - Devices: iPhone Devices, YeeLight, Raspberry Pi
  - [NubChat - chat app for devices (and humans) with PubNub](https://www.hackster.io/Momy93/nubchat-chat-app-for-devices-and-humans-with-pubnub-bad66c) 
       - Keyword: PubNub, Chat App, Arduino
       - Devices: MediaTek Labs LinkIt ONE, Android device
