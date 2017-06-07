@@ -47,6 +47,9 @@ A curated list of IoT Projects. Everyone can contribute here!
 
 ## Smart Home
 
+ - [Home automation with Z-Wave, Home-Assistant, Aeon Multisensor, HUE lights, and a Raspberry Pi 2](https://partofthething.com/thoughts/?p=937)
+    - Keyword: Home-Assistant, Aeon Multisensor, Phillips HUE
+    - Devices: Raspberry Pi, Hue, DD-WRT, Z-wave
  - [利用 HomeAssistant +树莓派+ Amazon Echo 的智能家居实践](http://kittenyang.com/homeassistant_practice_01/)
      - Keyword: HomeAssistant, Amazon Echo, IFTTT, Wemo
      - Devices: Amazon Echo, Yeelight, ESP8266, BroadLink     
