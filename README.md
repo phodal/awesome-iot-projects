@@ -95,6 +95,8 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [Boost Your Google Home With Prota OS for RPi](http://www.instructables.com/id/Boost-Your-Google-Home-With-Prota-OS-for-Raspberry/)
      - Keyword: IFTTT, Google Assistant, 
      - Devices: Google Home, Raspberry Pi, WebCam
+ - [Use Cortana Function on IoT Core](https://developer.microsoft.com/en-us/windows/iot/docs/cortanaoniotcore) 
+     - Keyword: Cortana, Windows IoT
 
 ## Machine Learning
 
