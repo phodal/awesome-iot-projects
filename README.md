@@ -5,13 +5,16 @@ A curated list of IoT Projects. Everyone can contribute here!
 
 **requirements**: connect internet.
 
+# Table of Contents
 
- - [Basic Showcase]
- - [Cloud Services]
- - [Hack]
- - [Smart Home]
- - [Voice]
- - [Machine Learning]
+   - [Basic Showcase](#basic-showcase)
+   - [Cloud Services](#cloud-services)
+   - [Hack](#hack)
+   - [Smart Home](#smart-home)
+   - [Voice](#voice)
+   - [Machine Learning](#machine-learning)
+- [Contributing](#contributing)
+
 
 ## Basic Showcase
 
