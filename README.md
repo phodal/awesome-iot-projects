@@ -70,6 +70,9 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [借助树莓派与 HomeBridge ，将 YeeLight 彩光灯接入 Apple HomeKit](https://sspai.com/post/36617) 
       - Keyword: HomeBridge, YeeLight, HomeKit, Apple, iOS
       - Devices: iPhone Devices, YeeLight, Raspberry Pi
+ - [自制 HomeKit 兼容 LED 灯条和温湿计](https://blog.bencww.com/2016/11/09/DIY-a-HomeKit-Light-and-a-Sensor/)
+      - Keyword: OpenWrt, HAP-NodeJS, Homekit, ESP8266
+      - Devices: iPhone, NewWifi, ESP8266
  - [NubChat - chat app for devices (and humans) with PubNub](https://www.hackster.io/Momy93/nubchat-chat-app-for-devices-and-humans-with-pubnub-bad66c) 
       - Keyword: PubNub, Chat App, Arduino
       - Devices: MediaTek Labs LinkIt ONE, Android device
