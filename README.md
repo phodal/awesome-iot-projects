@@ -49,7 +49,9 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [Telegram Bot Library](https://create.arduino.cc/projecthub/Arduino_Genuino/telegram-bot-library-ced4d4) 
      - Keyword: Telegram, bot, Arduino
      - Devices: Arduino MKR1000
-
+ - [动手DIY一个智能镜子](https://mp.weixin.qq.com/s/ELhXrgqUh4igXik-mNqDfg)
+     - Keyword: Chromecase, AdSignage
+     - Chromecast, Harmony Hub, iPhone
 ## Smart Home
 
  - [Home automation with Z-Wave, Home-Assistant, Aeon Multisensor, HUE lights, and a Raspberry Pi 2](https://partofthething.com/thoughts/?p=937)
