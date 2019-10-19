@@ -110,7 +110,9 @@ A curated list of IoT Projects. Everyone can contribute here!
  - [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
       - Keyword: Tensorflow, Robot, Raspberry Pi
       - Devices: Raspberry Pi
-
+ - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is a WIFI cracking tool that uses [A2C](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)-based "AI" leveraging [bettercap](https://www.bettercap.org/) that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures (either passively, or by performing authentication and association attacks).
+      - Keyword:  Machine Learning, WIFI Cracking, Raspberry Pi
+      - Devices: Raspberry Pi
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new IoT Projects to the list. 
